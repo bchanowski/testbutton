@@ -1,0 +1,16 @@
+.text {
+  z-index: 30;
+  font-size: 55px;
+  color: white;
+  position: absolute;
+}
+
+.cont {
+  position: relative;
+}
+
+@media screen and (max-width: 500px) {
+  .text {
+    margin-left: 12vw;
+  }
+}

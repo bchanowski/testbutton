@@ -1,0 +1,18 @@
+button {
+  height: 150px;
+  width: 200px;
+  cursor: pointer;
+  background-color: rgb(120, 4, 124);
+  border-radius: 10px;
+  border: 0px;
+  color: white;
+  transition-duration: 0.4s;
+  font-size: 35px;
+  font-family: "Dosis", sans-serif;
+}
+
+button:hover {
+  height: 250px;
+  width: 350px;
+  font-size: 55px;
+}
